@@ -1,0 +1,2 @@
+#DAX'S FIRST PYTHON PROGRAM
+print(1+1)
