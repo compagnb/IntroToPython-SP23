@@ -1,4 +1,4 @@
-#Spring 2023- Intro To Software Development - Python
+## Spring 2023- Intro To Software Development - Python
 * Instructor: Barbara Compagnoni
 * Email: compagnb@gmail.com
 * Class Repo: https://github.com/compagnb/W22-IntroToPython
