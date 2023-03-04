@@ -2,6 +2,6 @@
 * Instructor: Barbara Compagnoni
 * Email: compagnb@gmail.com
 * Class Repo: https://github.com/compagnb/W22-IntroToPython
-* [Vocabulary Sheet](vocab.md)
-* [Keywords Sheet](keywords.md)
+* [Vocabulary Sheet](wkNotes/vocab.md)
+* [Keywords Sheet](wkNotes/keywords.md)
 * [Students Folders](studentWork)
