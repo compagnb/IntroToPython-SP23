@@ -1,4 +1,5 @@
 #Hunter's First Python Program
+name = input ("what is your name?")
 print("purple monkey")
 
 
