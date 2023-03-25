@@ -26,10 +26,15 @@ if caveAction=="1":
         print("You left the cave peacefully")
 elif caveAction=="2":
     print("The countries cowardly walked away from the cave.")
+    print("The countries found an ongoing conflict going on.")
+    print("What should the countries do?")
+    print
 elif caveAction=="3":
     print("The USA showed everyone what freecom looks like and blew almost everyone up!")
     print("The USA just caused everyone to fight!")
     
+
+
 elif caveAction=="AMOGUS":
     print("why")
 else:
